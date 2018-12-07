@@ -9,7 +9,9 @@ http://nodebr.com/o-que-e-a-npm-do-nodejs/
 
 github/gitlab -> git
 
-
+aprender o que é uma npm e como usar
+como exemplo, resolver o link abaixo.
+entender o package json
 
 1) npm (package.json) - forum, tutorial   -   http://nodebr.com/o-que-e-a-npm-do-nodejs/
 
