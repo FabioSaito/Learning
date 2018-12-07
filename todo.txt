@@ -5,13 +5,14 @@ webstorm - evaluation version + faca pedido para usuario estudante
 
 
 
-
+http://nodebr.com/o-que-e-a-npm-do-nodejs/
 
 github/gitlab -> git
 
 
 
-1) npm (package.json) - forum, tutorial
+1) npm (package.json) - forum, tutorial   -   http://nodebr.com/o-que-e-a-npm-do-nodejs/
+
  example: https://github.com/nuxt/nuxt.js/tree/dev/examples/vue-chartjs
 
 2) ecma script vs cjs
