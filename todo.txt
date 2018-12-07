@@ -1,0 +1,21 @@
+
+comecear mecher com ubuntu
+webstorm - evaluation version + faca pedido para usuario estudante
+
+
+
+
+
+
+github/gitlab -> git
+
+
+
+1) npm (package.json) - forum, tutorial
+ example: https://github.com/nuxt/nuxt.js/tree/dev/examples/vue-chartjs
+
+2) ecma script vs cjs
+
+3) nodejs (overview) - backend
+
+4) tutoriais vue (video) - front end
